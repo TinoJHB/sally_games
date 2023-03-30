@@ -1,0 +1,174 @@
+
+
+
+
+
+
+本科留学生毕业论文（设计）
+Undergraduate International Students’ Graduation Thesis (Project)
+文献综述
+Literature Review
+
+
+TITLE：Visual Analysis of Football Data
+ 足球数据的可视分析
+
+
+                  
+学院College：  College of Computer Science and Technology
+专业Major：  Computer Science
+班级Class： 2019
+学号Student ID: L201926100150
+学生姓名Name of student： SHARMA BIRAT RAJ
+护照号Passport Number:   PA0978045
+指导教师Supervisor:	   孙国道 / Prof. Guodao Sun 
+提交日期Date:202 3 年 3 	
+TABLE OF CONTENTS
+
+
+⦁	Abstract
+
+⦁	Introduction
+⦁	Background and Context
+⦁	Purpose and Scope of the Review
+
+⦁	Related Works
+⦁	Search Terms and Databases Used
+⦁	Inclusion and Exclusion Criteria
+⦁	Number of Studies Retrieved and Screened
+⦁	Key Findings
+
+⦁	Key Issues
+
+⦁	Methods of Implementation
+
+⦁	Conclusion
+
+⦁	References
+
+
+
+
+
+
+
+
+
+⦁	ABSTRACT
+The visualisation of football data has gained significant attention in recent years due to its potential to provide valuable insights into player and team performance. In this literature review, we explore the various techniques and methods used in the visual analysis of football data. Our focus is on understanding the benefits and limitations of different approaches for analysing football data. We also discuss the importance of designing visualisations with human capabilities and limitations in mind. Through the review of recent research on this topic, we provide insights into the current state in visual analysis of football data and identify potential areas for future research. Overall, our findings suggest that visual analysis of football data has the potential to revolutionise the way we understand and analyse football matches and can lead to better decision-making by players, coaches, and analysts.
+
+⦁	INTRODUCTION
+⦁	BACKGROUND AND CONTEXT
+In recent years, football visualisation has gained popularity. With the advent of new technologies and the increasing availability of data, football clubs and analysts have started to leverage this data to gain insights and a competitive edge. The use of data analysis in football has become so prevalent that it has given rise to a new field of study known as football analytics .
+
+One key aspect of football analytics is the use of visual analysis techniques to understand and communicate complex data. Visual analysis techniques can help uncover patterns and insights that might be difficult to see in raw data and can also help communicate findings to a broader audience.
+
+There has been a significant amount of research conducted on the topic of visual analysis of football data. Many researchers have explored different visualisation techniques for different types of data, such as passing networks  and player trajectories . There are also some researches ongoing who have looked at the use of machine learning and artificial intelligence to extract insights from football data  .
+Given the growing importance of football analytics and the role that visual analysis plays in it, it is important to understand the existing research in this area. This literature review will provide an overview of the current state of research in visual analysis of football data, highlight the key findings, and identify areas for further study.
+
+⦁	PURPOSE AND SCOPE OF THE REVIEW
+
+The purpose of this literature review is to document the development of football visualisation, particularly static visualisation and football animation, and explore different programming languages and technologies used to create them. The review will also explore the benefits and limitations of visual analysis in the context of football data and identify any gaps or areas for further research in the field.
+
+⦁	RELATED WORKS
+
+⦁	SEARCH TERMS AND DATABASES USED
+
+The literature search process for this review involved the use of Google Scholar and a combination of relevant search terms. The search terms used were primarily focused on football analytics and visualisation, as well as related terms such as sports visualisation, football data, football analytics, and soccer data. Due to the conflict between the terms "football" and "soccer", both were included in the search terms to ensure a comprehensive search.
+
+The search was limited to articles published in English, and efforts were made to include recent publications to ensure the review was up-to-date.
+
+After conducting the initial search, the titles and abstracts of the articles were screened to determine their relevance to the topic. Full-text articles were then reviewed to select those that met the inclusion criteria for the review. The final set of articles included in the review were selected based on their relevance to the topic and the quality of the research.
+
+Along with articles, the review was also backed by some non-academic sources, such as reputable blogs and news providers.
+
+⦁	INCLUSION AND EXCLUSION CRITERIA
+
+Inclusion criteria:
+
+⦁	Peer-reviewed articles, conference papers, and books related to the visualisation of football and sports data
+⦁	English language publications
+⦁	Studies that focus on the application of visual analysis techniques to football and sports data
+⦁	Studies that provide empirical evidence and quantitative analysis
+⦁	Some non-academic sources, such as reputable blogs and news articles
+
+Exclusion criteria:
+
+⦁	Non-English language publications
+⦁	Exclude papers that primarily focus on topics unrelated to data visualisation
+⦁	Exclude papers for which the full text is not readily available through institutional access or other means.
+⦁	Exclude papers published before 2010 to focus on the most recent advancements in football data visualisation techniques and technologies.
+
+⦁	NUMBER OF STUDIES RETRIEVED AND SCREENED
+
+During the literature search process using the above-mentioned search terms on Google Scholar and some non-academic sources, a total of 60 studies were initially retrieved. These studies were then screened based on their titles and abstracts, which resulted in the selection of 20 academic studies for full-text review and 10 non-academic sources. After a thorough review of these studies, a total of 12 studies were deemed to meet the inclusion criteria and were included in the final analysis for this literature review on the topic of visual analysis of football data.
+
+⦁	KEY FINDINGS
+These are some key findings based on academic literature that might be useful for this project:
+
+Research Paper	Key Findings
+Analyzing Performance and Playing Style Using Ball Event Data	
+ 
+Figure 1 The key findings of this paper, which describe the data collected about football games. 
+
+The data collected about football games can be broadly divided into three types: matchsheet data, ball event data, and tracking data as shown in figure 1. Ball event data strikes a balance between matchsheet data and tracking data in terms of granularity and availability . 
+
+A Football Data visualization: The Belgian First Division 
+	When creating visualisations (such as graphs or charts), it's important to make them look attractive and interesting so that people will want to look at them and explore the data. However, it's also important to make sure that the visualisation accurately represents the data and doesn’t sacrifice accuracy just to make it look pretty. There needs to be a good balance between making it visually appealing and making sure it accurately represents the data . 
+
+Geovisualisation of football players movement	The author creates a systematic framework for football visualisation and explores different efficient workflows to create football animation. The framework includes acquiring, preprocessing and visualising data using methods such as Python and HTML/CSS .
+Visualization of training data reported
+by football players	This study found that creating visualisations of football training data can be very helpful for trainers and coaches to know more about their players as well as analyse their team's performance . 
+Big data and tactical analysis in elite soccer: future challenges and opportunities for sports science
+	 
+Figure 2: The proposed technological stack. 
+
+Traditional tactical analysis in elite soccer is limited by observational data, but next-generation tracking and sensor technologies provide detailed data. However, big data and machine learning can help develop a theoretical model for tactical decision-making, but there are obstacles to overcome. The proposed technological stack (as shown in figure 2) aims to introduce big data technologies into elite soccer research and could serve as a guideline for other sports science domains 
+
+Dynamic Visualizations for Soccer Statistical Analysis	The development of the Soccer Scoop application provides two separate visualisations that aid soccer team managers in analysing large sums of statistics. The visualisations allow for comparisons of players, analysis of player performance before signing, measurement of player performance in different positions, generation of practice exercises, and identification of player performance differences at home versus away. Information visualisation techniques, such as glyphs, modified star plots, details on demand, color, and gestalt principles, are applied in the visualisations . 
+
+Feature-Driven Visual Analytics Of Soccer Data	The authors present a visual analytics system for analysing high-frequency position-based soccer data at various levels of detail. This system allows users to interactively explore and analyse movement features and game events across single-player, multi-player, and event-based analytical views. By semi-automatically selecting, processing, and visualising the most promising features, the system aims to help soccer analysts identify crucial and interesting events in a match. The flexible, modular, and expandable layer-based system enables in-depth analysis, while the integration of visual analytics techniques facilitates the discovery of interesting events based on classification and supports communication of the results through custom views. The approach is evaluated through real-world soccer matches and expert feedback, with several use cases and findings demonstrating the system's capabilities.
+
+A survey of competitive sports data visualization
+and visual analysis	As techniques improve, data collection has led to increasingly abstract data features in recent years. In competitive sports data visualisation research, feature extraction and analysis using statistical analysis and machine learning have significant potential. Future research needs to address three key issues: choosing suitable visualisation techniques for different data types and attributes, effectively combining data attributes for better visualisation and visual analysis results, and establishing meaningful assessment frameworks .
+
+Visual Analysis of Pressure in Football	Modern tracking technologies allow for the collection of high-quality movement data in football, presenting significant opportunities for analysis. However, understanding team behaviors and tactics requires more than just good data; it's essential to know how to transform that data into knowledge. This study aimed to bridge the gap between raw positional data and the concepts of pressing and marking, which are crucial in modern football tactics. The researchers, a group of computer scientists and football experts, developed a method to detect and quantify pressure relationships based on player and ball positions. They also designed visualisation methods and an innovative interactive query tool called "time mask" for flexible selection and analysis of game episodes. While there is room for improvement in computational, visual, and interactive components, this study represents an essential first step in understanding and analysing pressing and marking behaviors based on real data .
+
+
+
+⦁	KEY ISSUES
+
+The following two points were identified as key issues.
+
+Data availability: While companies like StatsBomb and Opta offer valuable football data, their coverage is limited to only a small portion of the games played worldwide. This limited access to data can hinder comprehensive analysis and understanding of the sport on a global scale. Consequently, there is a growing demand for more affordable access to these companies' complete range of services and data.
+
+At present, StatsBomb and Opta offer free access to only a small subset of their data, which represents just a fraction of the total football matches played across the globe. This restricted availability of data can pose challenges for researchers, analysts, and fans seeking a more extensive and detailed understanding of football trends, patterns, and performances.
+
+In order to overcome these limitations, it is essential for companies like StatsBomb and Opta to explore avenues for making their data more accessible and affordable. By offering wider access to their full range of services, these companies can contribute to the growth of the football analytics community and enable more comprehensive analysis of the sport. This, in turn, could lead to improved strategies, tactics, and overall understanding of the game, benefiting players, coaches, and fans alike.
+ 
+Lack of standardisation: The lack of standardisation in data collection poses a significant challenge in comparing datasets and drawing meaningful conclusions. Different companies employ varying methods and definitions for data points, leading to questions about the inconsistencies in analysis that may result in inaccurate conclusions. However, one journal paper specifically noted that despite these differences, their proposed model still got satisfactory results despite some slight inaccuracies .
+
+⦁	METHODS AND IMPLEMENTATION
+
+The thesis "Geovisualisation of Football Players Movement" by Nianhua Liu  provided valuable insights and information that were instrumental in helping me move forward with my project. The thesis explored the use of geospatial data visualisation techniques to analyse and understand the movement patterns of football players on the field.
+
+ 
+
+Figure  A general workflow of how to create football visualisations based on one paper .
+
+The author proposed a framework (as mentioned in Figure 2) for collecting, analysing, and visualising player movement data, which I found to be very useful for my project. The thesis also highlighted the importance of using a variety of visual representations, including maps, graphs, and animations, to better understand the complex patterns of player movement in football. 
+
+The objective of my project is to analyse data from the FIFA World Cup using Python and Streamlit, and to use these tools to create interactive data visualisations and dashboards. I will follow the general workflow (as shown in figure 3), but will also make some specific adjustments to tailor the project to my goals. Streamlit, an open-source framework, allows for the rapid development of web applications for data analysis without the need for extensive web development knowledge. To complete the project, a solid understanding of Python, data manipulation libraries, Streamlit, and football data provided by Statsbomb is required. Additionally, Python libraries like pandas, numpy and matplotlib will be utilized to plot and visualise football data, including passes and expected goals, using Jupyter Notebook.
+
+The ultimate goal is to develop an interactive frontend technology that offers in-depth insights into team and player statistics from the FIFA World Cup in a user-friendly manner. The technology will consist of several interactive dashboards designed to be intuitive and easy to use, featuring filtering, sorting, and searching capabilities. These dashboards will enable users to efficiently explore and analyse the data, providing comprehensive insights into various aspects of football statistics.
+
+The dashboards will be divided into sections, each focusing on specific team or player statistics. The team statistics section will encompass various metrics, such as goals scored, shots on target, successful passes, and tackles. Meanwhile, the player statistics section will cover traditional stats like goals and assists, as well as player positioning heatmaps and pass maps. These visualisations will showcase areas on the pitch where players spend the most time during matches and display their passes, offering a more in-depth analysis of player performance.
+
+
+⦁	CONCLUSION
+
+In conclusion, the literature review on visual analysis of football data reveals that there are various types of data available. Visualisations are essential tools for analysing and presenting football data, but it is important to maintain a balance between attractiveness and accuracy. Creating visualisations for football training data was found to be beneficial for coaches and trainers to gain insights into player performance and team analysis. However, there are still challenges to be addressed in football data analysis, such as data quality and availability, standardisation of data collection methods, and the affordability of accessing data from companies like StatsBomb and Opta.
+
+In addition to the key issues identified in the literature review, one potential area for future research is exploring the use of emerging technologies such as machine learning and artificial intelligence, which may provide new ways for analysing and visualising football data. Overall, continued research in the visual analysis of football data has the potential to greatly enhance our understanding of the game and its players.
+
+
